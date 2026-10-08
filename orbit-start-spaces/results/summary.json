@@ -1,0 +1,30 @@
+[
+  {
+    "geometry": "oblate",
+    "box_median_relative_error": 2.882300553169441e-07,
+    "box_max_relative_error": 4.286565006922293e-06,
+    "tube_median_relative_error": 4.938282663072615e-05,
+    "tube_max_relative_error": 0.03102753930907307
+  },
+  {
+    "geometry": "mild_triaxial",
+    "box_median_relative_error": 2.942925253381909e-07,
+    "box_max_relative_error": 4.594435734108554e-06,
+    "tube_median_relative_error": 7.58049903472451e-05,
+    "tube_max_relative_error": 0.03103351900405835
+  },
+  {
+    "geometry": "strong_triaxial",
+    "box_median_relative_error": 3.540318576839961e-07,
+    "box_max_relative_error": 4.163097604890362e-06,
+    "tube_median_relative_error": 7.848277567202466e-05,
+    "tube_max_relative_error": 0.031030612260755847
+  },
+  {
+    "geometry": "near_prolate",
+    "box_median_relative_error": 4.045880300234327e-07,
+    "box_max_relative_error": 4.588611458747298e-06,
+    "tube_median_relative_error": 1.0894683112895046e-05,
+    "tube_max_relative_error": 0.03103017966632289
+  }
+]
